@@ -1,5 +1,5 @@
 MEsleki Gelişim Sınavı 
-https://forms.gle/5pdQXjtzZLMrTP8h8
+https://forms.gle/Gkcn8ud3dGcgvXUi6
 
 # Meslek_Lisesi_Bilisim_Bolumu
 Mesleki ve Teknik Anadolu Liseleri için Bilişim Bölümü Ders Notları ve Dökümanları
