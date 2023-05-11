@@ -1,5 +1,5 @@
-MEsleki Gelişim Sınavı 
-https://forms.gle/Gkcn8ud3dGcgvXUi6
+python fonk kullanımı 
+https://colab.research.google.com/drive/1nJF1AzRMXiznzQUO240siVMTE8882jtE?usp=sharing
 
 # Meslek_Lisesi_Bilisim_Bolumu
 Mesleki ve Teknik Anadolu Liseleri için Bilişim Bölümü Ders Notları ve Dökümanları
